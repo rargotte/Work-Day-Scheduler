@@ -13,7 +13,7 @@ Installation
 ------------
 
 No installation needed.
-This is a simple work scheduler to organize your dayly tasks.
+This is a simple work scheduler to organize your daily tasks.
 
 
 Usage
@@ -25,7 +25,7 @@ https://rargotte.github.io/work_scheduler/
 
 Just type your activities in the text section of each block time and press the save button.
 
-<img src= "/assets/img/save_button.jpg alt= "Save button">
+<img src= "./assets/img/save_button.jpg alt= "Save button">
 
 Once you save your activities, next time you refresh the scheduler the activity will show up.
 
